@@ -20,7 +20,7 @@ a:hover {
 }
 iframe{
     border-radius: 10px;
-    padding-bottom: 30px;
+    margin-bottom: 30px;
 }
 .social {
     height: .725em;
