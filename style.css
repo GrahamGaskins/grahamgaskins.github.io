@@ -19,20 +19,7 @@ a:hover {
     text-decoration: underline;
 }
 iframe{
-    padding-top: 15px;
-    padding-bottom: 15px;
-}
-.fab {
-    font-size: 25px;
-    margin: 0 10px 0 0;
-    color: #ffffff;
-    text-decoration: none;
-    padding: 9px;
-    border-radius: 100%;
-    background: #ffffff;
-    width: 25px;
-    height: 25px;
-    text-align: center;
+    padding-bottom: 30px;
 }
 .social {
     height: .725em;
