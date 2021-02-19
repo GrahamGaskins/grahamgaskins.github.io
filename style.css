@@ -5,25 +5,20 @@ body {
     max-width: 35em;
     margin: auto;
     padding: 25px 10px 0px;
-  }
-  
+}
 img {
     width: 50%;
     height: 50%;
-    border-radius: 5px;
+    border-radius: 10px;
 }
-
 a {
     color: #0a84ff;
     text-decoration: none;
-  }
-  
-  a:hover {
+}  
+a:hover {
     text-decoration: underline;
-  }
-
-  .fa,
-  .fab {
+}
+.fab {
     font-size: 25px;
     margin: 0 10px 0 0;
     color: #ffffff;
@@ -34,31 +29,23 @@ a {
     width: 25px;
     height: 25px;
     text-align: center;
-  }
-  
-  .fa:hover,
-  .fab:hover {
+}
+.fab:hover {
     opacity: 0.7;
     text-decoration: none;
-  }
-  
-  .fa-instagram {
+}
+.fa-instagram {
     background-color: #e1306c;
-  }
-  
-  .fa-music {
-    background-color: #1DB954;
-  }
-
+}
 @media (prefers-color-scheme: dark) {
-    body {
-      background: #000;
-      color: #fff;
-    }
-    a {
-      color: #0A84FF;
-    }
-    .fa, .fab {
-        color: #000;
-      }
+  body {
+    background: #000;
+    color: #fff;
   }
+  a {
+      color: #0A84FF;
+  }
+  .fab {
+        color: #000;
+  }
+}
